@@ -1,3 +1,12 @@
+// File        : TriangleTests.cs
+// Author      : Ricardo Mohammed
+// Project     : Test Driven Development - Software Quality A4
+// Date        : December 6th, 2017
+// Description : This is the test class for the Triangle class.
+//               It uses the built-in .NET unit test feature.
+
+
+
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using triangleTDD;

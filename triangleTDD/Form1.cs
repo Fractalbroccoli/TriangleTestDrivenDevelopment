@@ -16,7 +16,6 @@ namespace triangleTDD
         {
             InitializeComponent();
         }
-
-
+    
     }
 }

@@ -1,0 +1,10 @@
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\triangleTDD\bin\Debug\triangleTDD.exe.config
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\triangleTDD\bin\Debug\triangleTDD.exe
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\triangleTDD\bin\Debug\triangleTDD.pdb
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.csprojResolveAssemblyReference.cache
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.Form1.resources
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.Properties.Resources.resources
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.csproj.GenerateResource.Cache
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.csproj.CoreCompileInputs.cache
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.exe
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\triangleTDD\Debug\triangleTDD.pdb

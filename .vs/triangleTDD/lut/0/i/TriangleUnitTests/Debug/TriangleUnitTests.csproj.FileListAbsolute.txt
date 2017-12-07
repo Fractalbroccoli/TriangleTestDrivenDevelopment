@@ -1,0 +1,9 @@
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\TriangleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\TriangleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\TriangleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\TriangleUnitTests\bin\Debug\TriangleUnitTests.dll
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\b\TriangleUnitTests\bin\Debug\TriangleUnitTests.pdb
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\TriangleUnitTests\Debug\TriangleUnitTests.csprojResolveAssemblyReference.cache
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\TriangleUnitTests\Debug\TriangleUnitTests.csproj.CoreCompileInputs.cache
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\TriangleUnitTests\Debug\TriangleUnitTests.dll
+D:\Fall 2017\VSProjects\TriangleTestDrivenDevelopment\.vs\triangleTDD\lut\0\i\TriangleUnitTests\Debug\TriangleUnitTests.pdb
