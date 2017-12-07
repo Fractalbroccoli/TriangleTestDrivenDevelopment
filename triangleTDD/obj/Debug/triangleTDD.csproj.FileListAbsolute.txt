@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\bin\Debug\triangleTDD.exe.config
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\bin\Debug\triangleTDD.exe
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\bin\Debug\triangleTDD.pdb
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.Form1.resources
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.Properties.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.exe
+C:\Users\Public\Documents\Visual Studio 2017\Projects\triangleTDD\triangleTDD\obj\Debug\triangleTDD.pdb
